@@ -1,0 +1,262 @@
+{
+    "homepage": [
+        {
+            "map_to_component": "HeroSectionWithBackgroundImage",
+            "bg_image": "baner.webp",
+            "main_heading": "Dobrodošli u restoran Berane",
+            "main_span": "Foodhouse",
+            "cta": {
+                "label": "Pogledajte naš meni",
+                "link": "/cjenovnik"
+            }
+        },
+        {
+            "map_to_component": "FeaturesSection",
+            "main_heading": "Usluge restorana",
+            "bg_image": "restaurant_old.webp",
+            "features": [
+                {
+                    "icon": "menu_icon.svg",
+                    "heading": "Naš meni",
+                    "description": "Meni našeg restorana sadrži širok spektar jela, od klasičnih favorita do savremenih kreacija. Mi smo ponosni što koristimo samo najsvježije i najkvalitetnije sastojke, dobavljene od lokalnih dobavljača."
+                },
+                {
+                    "icon": "ketering.svg",
+                    "heading": "Ketering",
+                    "description": "Nudimo uslugu kateringa za sve vrste događaja, od poslovnih sastanaka do privatnih proslava,  sa menijem koji će biti pripremljen prema vašim željama i potrebama. Kontaktirajte nas i mi ćemo se pobrinuti za sve, od pripreme hrane do dostave i posluživanja, tako da se možete potpuno opustiti i uživati."
+                },
+                {
+                    "icon": "delivery.svg",
+                    "heading": "Dostava hrane",
+                    "description": "Nudimo dostavu hrane direktno na vašu adresu. Mi ćemo se brinuti za svaku pojedinost i \n            osigurati da vaša hrana bude dostavljena na vrijeme."
+                }
+            ]
+        },
+        {
+            "map_to_component": "CtaSection",
+            "main_heading": "Ne čekajte - pozovite nas",
+            "description": "Ne čekajte više, rezervišite sada i probajte najbolja jela u gradu. Prihvatamo rezervacije za ručak, večeru i vikend doručak, tako da ne propustite priliku da jedete sa nama. Kliknite na dugme ispod da rezervišete sto u našem restoranu i uživate u nezaboravnom obroku",
+            "cta": {
+                "label": "Pogledajte meni",
+                "url": "/cjenovnik"
+            }
+        },
+        {
+            "map_to_component": "DostavaHrane",
+            "bg_image": "dostava.jpg",
+            "main_heading": "Dostava",
+            "main_span": "Hrane",
+            "paragraf": "Nemate vremena da sami kuvate? Želite ukusnu, sveže pripremljenu hranu dostavljenu na vaša vrata? Naš servis dostave je ono što vam je potrebno. Bez obzira da li želite ukusne obroke za sebe, porodicu ili za korporativni sastanak, mi smo tu da vam olakšamo dan. Ponuda našeg restorana obuhvata bogat izbor jela, koje pažljivo pripremaju naši iskusni kuvari, koristeći samo najkvalitetnije sastojke. Od zdravih salata do bogatih glavnih jela, imamo nešto za svaki ukus. Dostava je brza, efikasna i pouzdana, omogućavajući vam da uživate u svojim omiljenim obrocima bez napora. Sve što treba da uradite je da odaberete svoja omiljena jela sa našeg menija, i mi ćemo se pobrinuti za ostalo.",
+            "cta": {
+                "label": "Pogledajte naš meni",
+                "link": "/cjenovnik"
+            }
+        },
+        {
+            "map_to_component": "UslugeKeteringa",
+            "bg_image": "ketering.jpg",
+            "main_heading": "Usluge",
+            "main_span": "Keteringa",
+            "paragraf": "Nije bitno da li planirate veliki korporativni događaj ili intimnu proslavu, mi smo tu da vam pomognemo da vaša prilika bude nezaboravna. Naš ketering servis je kreiran sa namerom da odgovori na najrazličitije zahteve naših klijenata, pružajući izbor između različitih kuhinja, stilova i tematskih menija. Bez obzira na veličinu ili složenost događaja, naš iskusni tim je posvećen tome da obezbedi besprijekorno iskustvo, koje uključuje sve - od planiranja do pripreme, prezentacije i posluživanja. Izvanredna hrana je samo početak - naš cilj je da premašimo očekivanja i pružimo uslugu koja će vas impresionirati.",
+            "cta": {
+                "label": "Kontaktirajte nas",
+                "link": "/contact"
+            }
+        }
+    ],
+    "cjenovnik": {
+        "main_heading": "FoodHouse Berane",
+        "description": "Cooking with love",
+        "cta": {
+            "label": "View menu",
+            "url": "/cjenovnik"
+        },
+        "galleryButton": "Otvori galeriju slika"
+    },
+    "contact": {
+        "map_to_component": "ContactFormWithBGImage",
+        "main_heading": "FoodHouse Berane",
+        "description": "Ne čekajte više, rezervišite odmah i probajte najbolja jela u gradu. Primamo rezervacije za ručak, večeru i branč vikendom, tako da ne propustite priliku da večerate sa nama. Kliknite na dugme ispod da rezervišete sto i uživate u nezaboravnom obroku.",
+        "button_text": "Kontakirajte nas",
+        "social_heading": "Povežimo se",
+        "bg_image": "bg_contact.webp",
+        "social_media_links": [
+            {
+                "link": "https://www.instagram.com/foodhouse_cookingwithlove/",
+                "icon": "instagram.svg"
+            }
+        ],
+        "contact_form": {
+            "button_input": "Kontaktirajte nas",
+            "message_input": "Poruka",
+            "email_input": "vaš email",
+            "name_input": "vaše ime",
+            "heading": "Kontakt forma",
+            "description": "Pitajte ili uputite sugestiju, voljni smo da čujemo vaše mišljenje.",
+            "email_placeholder": "ukucajte vaš email",
+            "name_placeholder": "ukucajte vaše ime",
+            "message_placeholder": "ukucajte poruku"
+        }
+    },
+    "general-app-info": {
+        "id": 1,
+        "website_title": "Food House - Berane",
+        "website_subtitle": "Cooking with love",
+        "primary_email": "info@foodhouse.me",
+        "secondary_email": null,
+        "primary_phone_number": "068580233",
+        "secondary_phone_number": null,
+        "primary_address": "Voja Maslovarića bb. Berane",
+        "logo_url": null,
+        "favicon_url": null,
+        "createdAt": "2022-12-06T12:28:30.464Z",
+        "updatedAt": "2023-01-21T09:45:42.515Z",
+        "publishedAt": "2023-01-16T13:00:19.209Z",
+        "locale": "sr",
+        "logo_img": "foodhouse_logo.png",
+        "social_links": [],
+        "favicon_img": null,
+        "header": [],
+        "footer": [],
+        "localizations": []
+    },
+    "seo": {
+        "title": "Restoran Foodhouse Berane | Najbolji restoran u Beranama",
+        "description": "Posjetite Foodhouse, najbolji restoran u Beranama. Uživajte u ukusnoj hrani, prijatnom ambijentu i vrhunskoj usluzi. Rezervišite svoje mjesto danas!",
+        "keywords": "restoran, Foodhouse, Berane, hrana, usluga, rezervacija",
+        "canonical": "https://foodhouseberane.me/",
+        "og": {
+            "title": "Restoran Foodhouse Berane | Najbolji restoran u Beranama",
+            "description": "Posjetite Foodhouse, najbolji restoran u Beranama. Uživajte u ukusnoj hrani, prijatnom ambijentu i vrhunskoj usluzi. Rezervišite svoje mjesto danas!",
+            "url": "https://foodhouseberane.me/",
+            "type": "website"
+        },
+        "twitter": {
+            "title": "Restoran Foodhouse Berane | Najbolji restoran u Beranama",
+            "description": "Posjetite Foodhouse, najbolji restoran u Beranama. Uživajte u ukusnoj hrani, prijatnom ambijentu i vrhunskoj usluzi. Rezervišite svoje mjesto danas!",
+            "card": "summary_large_image"
+        }
+    },
+    "pictures": [
+        {
+            "thumbnail": "https://i.imgur.com/I91xb4Al.jpg",
+            "original": "https://i.imgur.com/I91xb4A.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/JnoloGxl.jpg",
+            "original": "https://i.imgur.com/JnoloGx.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/CChAtGol.jpg",
+            "original": "https://i.imgur.com/CChAtGo.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/0Vpx7dUl.jpg",
+            "original": "https://i.imgur.com/0Vpx7dU.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/JJy6fMZl.jpg",
+            "original": "https://i.imgur.com/JJy6fMZ.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/kY6NZGwl.jpg",
+            "original": "https://i.imgur.com/kY6NZGw.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/aJbCzlLl.jpg",
+            "original": "https://i.imgur.com/aJbCzlL.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/JhXhnjwl.jpg",
+            "original": "https://i.imgur.com/JhXhnjw.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/pFaQjGcl.jpg",
+            "original": "https://i.imgur.com/pFaQjGc.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/uruWKrJl.jpg",
+            "original": "https://i.imgur.com/uruWKrJ.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/T3LvK2El.jpg",
+            "original": "https://i.imgur.com/T3LvK2E.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/D8XgUF1l.jpg",
+            "original": "https://i.imgur.com/D8XgUF1.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/f3xwA25l.jpg",
+            "original": "https://i.imgur.com/f3xwA25.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/TkhkTCAl.jpg",
+            "original": "https://i.imgur.com/TkhkTCA.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/lw28AHZl.jpg",
+            "original": "https://i.imgur.com/lw28AHZ.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/9xUvWYfl.jpg",
+            "original": "https://i.imgur.com/9xUvWYf.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/6e8Dlt3l.jpg",
+            "original": "https://i.imgur.com/6e8Dlt3.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/su40B8Wl.jpg",
+            "original": "https://i.imgur.com/su40B8W.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/zw7Yf9Ul.jpg",
+            "original": "https://i.imgur.com/zw7Yf9U.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/Chr4FRdl.jpg",
+            "original": "https://i.imgur.com/Chr4FRd.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/0XBboBul.jpg",
+            "original": "https://i.imgur.com/0XBboBu.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/xwDpNxCl.jpg",
+            "original": "https://i.imgur.com/xwDpNxC.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/zg8KO86l.jpg",
+            "original": "https://i.imgur.com/zg8KO86.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/z5zFpcil.jpg",
+            "original": "https://i.imgur.com/z5zFpci.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/pFCmMO6l.jpg",
+            "original": "https://i.imgur.com/pFCmMO6.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/9dNdtJTl.jpg",
+            "original": "https://i.imgur.com/9dNdtJT.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/ZnVXgqUl.jpg",
+            "original": "https://i.imgur.com/ZnVXgqU.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/706NO7Rl.jpg",
+            "original": "https://i.imgur.com/706NO7R.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/8wiBU2Fl.jpg",
+            "original": "https://i.imgur.com/8wiBU2F.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/i0JZdkpl.jpg",
+            "original": "https://i.imgur.com/i0JZdkp.jpg"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Great+Vibes&family=Lora:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    font-family: 'Oswald', sans-serif;
+}
+
+h6 {
+    @apply text-base font-bold;
+}
+
+h5 {
+    @apply text-lg font-bold;
+}
+
+h4 {
+    @apply text-xl font-bold;
+}
+
+h3 {
+    @apply text-2xl font-bold;
+}
+
+h2 {
+    @apply text-3xl font-bold;
+}
+
+h1 {
+    @apply text-4xl font-bold;
+}
+
+.beforeAnimation>* {
+    opacity: 0;
+}
+
+.animateChild>* {
+    opacity: 0;
+    animation: showAll forwards cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+}
+
+.animateChild>*:nth-child(0) {
+    animation-delay: 0ms;
+}
+
+.animateChild>*:nth-child(1) {
+    animation-delay: 200ms;
+}
+
+.animateChild>*:nth-child(2) {
+    animation-delay: 400ms;
+}
+
+.animateChild>*:nth-child(3) {
+    animation-delay: 600ms;
+}
+
+.animateChild>*:nth-child(4) {
+    animation-delay: 800ms;
+}
+
+.animateChild>*:nth-child(5) {
+    animation-delay: 1000ms;
+}
+
+.animateAllChild>* {
+    opacity: 0;
+    animation: showAll forwards cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+    animation-delay: calc(100ms * var(--i));
+}
+
+@keyframes showAll {
+    0% {
+        opacity: 0;
+        transform: translateY(20px)
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px)
+    }
+}

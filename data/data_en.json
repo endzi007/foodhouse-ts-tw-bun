@@ -1,0 +1,262 @@
+{
+    "homepage": [
+        {
+            "map_to_component": "HeroSectionWithBackgroundImage",
+            "bg_image": "baner.webp",
+            "main_heading": "Welcome to Berane Restaurant",
+            "main_span": "Foodhouse",
+            "cta": {
+                "label": "View our menu",
+                "link": "/cjenovnik"
+            }
+        },
+        {
+            "map_to_component": "FeaturesSection",
+            "main_heading": "Restaurant Services",
+            "bg_image": "restaurant_old.webp",
+            "features": [
+                {
+                    "icon": "menu_icon.svg",
+                    "heading": "Our Menu",
+                    "description": "Our restaurant's menu features a wide range of dishes, from classic favorites to modern creations. We take pride in using only the freshest and highest quality ingredients, sourced from local suppliers."
+                },
+                {
+                    "icon": "ketering.svg",
+                    "heading": "Catering",
+                    "description": "We offer catering services for all kinds of events, from business meetings to private celebrations, with a menu that will be prepared according to your wishes and needs. Contact us and we will take care of everything, from food preparation to delivery and serving, so you can fully relax and enjoy."
+                },
+                {
+                    "icon": "delivery.svg",
+                    "heading": "Food Delivery",
+                    "description": "We offer food delivery directly to your address. We will take care of every detail and ensure that your food is delivered on time."
+                }
+            ]
+        },
+        {
+            "map_to_component": "CtaSection",
+            "main_heading": "Don't wait - call us",
+            "description": "Don't wait any longer, book now and try the best dishes in town. We accept reservations for lunch, dinner and weekend breakfast, so don't miss the opportunity to dine with us. Click the button below to book a table and enjoy an unforgettable meal",
+            "cta": {
+                "label": "View the menu",
+                "url": "/cjenovnik"
+            }
+        },
+        {
+            "map_to_component": "DostavaHrane",
+            "bg_image": "dostava.jpg",
+            "main_heading": "Delivery",
+            "main_span": "Food",
+            "paragraf": "Don't have time to cook yourself? Want tasty, freshly prepared food delivered to your doorstep? Our delivery service is what you need. Whether you want delicious meals for yourself, family, or a corporate meeting, we are here to make your day easier. Our restaurant's offer includes a rich selection of dishes, carefully prepared by our experienced chefs, using only the highest quality ingredients. From healthy salads to rich main dishes, we have something for every taste. Delivery is fast, efficient, and reliable, allowing you to enjoy your favorite meals without effort. All you need to do is choose your favorite dishes from our menu, and we will take care of the rest.",
+            "cta": {
+                "label": "View our menu",
+                "link": "/cjenovnik"
+            }
+        },
+        {
+            "map_to_component": "UslugeKeteringa",
+            "bg_image": "ketering.jpg",
+            "main_heading": "Services",
+            "main_span": "Catering",
+            "paragraf": "Whether you're planning a large corporate event or an intimate celebration, we're here to help make your occasion unforgettable. Our catering service is designed to meet the diverse needs of our clients, offering a choice between different cuisines, styles and themed menus. Regardless of the size or complexity of the event, our experienced team is dedicated to providing a flawless experience, which includes everything - from planning to preparation, presentation and serving. Excellent food is just the beginning - our goal is to exceed expectations and provide a service that will impress you.",
+            "cta": {
+                "label": "Contact us",
+                "link": "/contact"
+            }
+        }
+    ],
+    "cjenovnik": {
+        "main_heading": "FoodHouse Berane",
+        "description": "Cooking with love",
+        "cta": {
+            "label": "View menu",
+            "url": "/cjenovnik"
+        },
+        "galleryButton": "Open picture gallery"
+    },
+    "contact": {
+        "map_to_component": "ContactFormWithBGImage",
+        "main_heading": "FoodHouse Berane",
+        "description": "Don't wait any longer, book now and try the best dishes in town. We accept reservations for lunch, dinner and weekend brunch, so don't miss the opportunity to dine with us. Click the button below to book a table and enjoy an unforgettable meal.",
+        "button_text": "Contact us",
+        "social_heading": "Let's connect",
+        "bg_image": "bg_contact.webp",
+        "social_media_links": [
+            {
+                "link": "https://www.instagram.com/foodhouse_cookingwithlove/",
+                "icon": "instagram.svg"
+            }
+        ],
+        "contact_form": {
+            "button_input": "Contact us",
+            "message_input": "Message",
+            "email_input": "your email",
+            "name_input": "your name",
+            "heading": "Contact form",
+            "description": "Ask or suggest, we are willing to hear your opinion.",
+            "email_placeholder": "type your email",
+            "name_placeholder": "type your name",
+            "message_placeholder": "type message"
+        }
+    },
+    "general-app-info": {
+        "id": 1,
+        "website_title": "Food House - Berane",
+        "website_subtitle": "Cooking with love",
+        "primary_email": "info@foodhouse.me",
+        "secondary_email": null,
+        "primary_phone_number": "068580233",
+        "secondary_phone_number": null,
+        "primary_address": "Voja Maslovarića bb. Berane",
+        "logo_url": null,
+        "favicon_url": null,
+        "createdAt": "2022-12-06T12:28:30.464Z",
+        "updatedAt": "2023-01-21T09:45:42.515Z",
+        "publishedAt": "2023-01-16T13:00:19.209Z",
+        "locale": "sr",
+        "logo_img": "foodhouse_logo.png",
+        "social_links": [],
+        "favicon_img": null,
+        "header": [],
+        "footer": [],
+        "localizations": []
+    },
+    "seo": {
+        "title": "Foodhouse Restaurant Berane | The Best Restaurant in Berane",
+        "description": "Visit Foodhouse, the best restaurant in Berane. Enjoy delicious food, a pleasant atmosphere, and top-notch service. Reserve your spot today!",
+        "keywords": "restaurant, Foodhouse, Berane, food, service, reservation",
+        "canonical": "https://foodhouseberane.me/",
+        "og": {
+            "title": "Foodhouse Restaurant Berane | The Best Restaurant in Berane",
+            "description": "Visit Foodhouse, the best restaurant in Berane. Enjoy delicious food, a pleasant atmosphere, and top-notch service. Reserve your spot today!",
+            "url": "https://foodhouseberane.me/",
+            "type": "website"
+        },
+        "twitter": {
+            "title": "Foodhouse Restaurant Berane | The Best Restaurant in Berane",
+            "description": "Visit Foodhouse, the best restaurant in Berane. Enjoy delicious food, a pleasant atmosphere, and top-notch service. Reserve your spot today!",
+            "card": "summary_large_image"
+        }
+    },
+    "pictures": [
+        {
+            "thumbnail": "https://i.imgur.com/I91xb4Al.jpg",
+            "original": "https://i.imgur.com/I91xb4A.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/JnoloGxl.jpg",
+            "original": "https://i.imgur.com/JnoloGx.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/CChAtGol.jpg",
+            "original": "https://i.imgur.com/CChAtGo.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/0Vpx7dUl.jpg",
+            "original": "https://i.imgur.com/0Vpx7dU.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/JJy6fMZl.jpg",
+            "original": "https://i.imgur.com/JJy6fMZ.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/kY6NZGwl.jpg",
+            "original": "https://i.imgur.com/kY6NZGw.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/aJbCzlLl.jpg",
+            "original": "https://i.imgur.com/aJbCzlL.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/JhXhnjwl.jpg",
+            "original": "https://i.imgur.com/JhXhnjw.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/pFaQjGcl.jpg",
+            "original": "https://i.imgur.com/pFaQjGc.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/uruWKrJl.jpg",
+            "original": "https://i.imgur.com/uruWKrJ.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/T3LvK2El.jpg",
+            "original": "https://i.imgur.com/T3LvK2E.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/D8XgUF1l.jpg",
+            "original": "https://i.imgur.com/D8XgUF1.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/f3xwA25l.jpg",
+            "original": "https://i.imgur.com/f3xwA25.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/TkhkTCAl.jpg",
+            "original": "https://i.imgur.com/TkhkTCA.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/lw28AHZl.jpg",
+            "original": "https://i.imgur.com/lw28AHZ.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/9xUvWYfl.jpg",
+            "original": "https://i.imgur.com/9xUvWYf.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/6e8Dlt3l.jpg",
+            "original": "https://i.imgur.com/6e8Dlt3.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/su40B8Wl.jpg",
+            "original": "https://i.imgur.com/su40B8W.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/zw7Yf9Ul.jpg",
+            "original": "https://i.imgur.com/zw7Yf9U.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/Chr4FRdl.jpg",
+            "original": "https://i.imgur.com/Chr4FRd.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/0XBboBul.jpg",
+            "original": "https://i.imgur.com/0XBboBu.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/xwDpNxCl.jpg",
+            "original": "https://i.imgur.com/xwDpNxC.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/zg8KO86l.jpg",
+            "original": "https://i.imgur.com/zg8KO86.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/z5zFpcil.jpg",
+            "original": "https://i.imgur.com/z5zFpci.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/pFCmMO6l.jpg",
+            "original": "https://i.imgur.com/pFCmMO6.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/9dNdtJTl.jpg",
+            "original": "https://i.imgur.com/9dNdtJT.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/ZnVXgqUl.jpg",
+            "original": "https://i.imgur.com/ZnVXgqU.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/706NO7Rl.jpg",
+            "original": "https://i.imgur.com/706NO7R.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/8wiBU2Fl.jpg",
+            "original": "https://i.imgur.com/8wiBU2F.jpg"
+        },
+        {
+            "thumbnail": "https://i.imgur.com/i0JZdkpl.jpg",
+            "original": "https://i.imgur.com/i0JZdkp.jpg"
+        }
+    ]
+}
